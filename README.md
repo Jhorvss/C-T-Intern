@@ -4,3 +4,4 @@
 
 Changelog:
 - Added index.html , styles.css, script.js
+- Added initial contents
